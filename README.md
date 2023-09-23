@@ -9,8 +9,6 @@ This project involves analyzing sales data stored in a MySQL database using Tabl
 - [Data Source](#data-source)
 - [Tableau Visualization](#tableau-visualization)
 - [Insights](#insights)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
